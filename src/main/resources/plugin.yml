@@ -1,0 +1,10 @@
+name: InfoGui
+version: '${project.version}'
+main: me.zeus2.infogui.InfoGui
+api-version: 1.19
+commands:
+  serverinfo:
+    description: sets a custom lore
+    usage: /serverinfo
+    permission: InfoGui.ServerInfo.use
+    permission-message: "§cYou do not have permission to use this command."

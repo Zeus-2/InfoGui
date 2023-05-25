@@ -1,0 +1,20 @@
+pages:
+  - |
+    Page 1 content goes here.
+    This is a multiline page with multiple paragraphs.
+
+    You can use formatting codes like &c to add color.
+
+    You can also use special formatting codes like &l to make text bold.
+
+  - |
+    Page 2 content goes here.
+    This is another page in the book.
+
+    You can include more paragraphs and formatting as needed.
+
+  - |
+    Page 3 content goes here.
+    This is the final page in the book.
+
+    Customize the content based on your requirements.
